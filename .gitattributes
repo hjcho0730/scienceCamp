@@ -1,0 +1,2 @@
+plant_disease_vit_model.pth filter=lfs diff=lfs merge=lfs -text
+plant_disease_cnn_model.pth filter=lfs diff=lfs merge=lfs -text
