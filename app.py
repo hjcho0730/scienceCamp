@@ -344,7 +344,11 @@ with tab2:
 
         except Exception as e:
 <<<<<<< HEAD
+<<<<<<< HEAD
           st.error(f"평가 중 오류가 발생했습니다: {str(e)}")
+=======
+          st.error(f"평가 중 오류가 발생했습니다: {str(e)}")
+>>>>>>> ffb38c92000ce000a2ba35f5a488c6cb06052060
 =======
           st.error(f"평가 중 오류가 발생했습니다: {str(e)}")
 >>>>>>> ffb38c92000ce000a2ba35f5a488c6cb06052060
